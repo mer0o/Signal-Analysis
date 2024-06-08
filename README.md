@@ -1,5 +1,5 @@
 
-# Signal Analysis Project - Comm B301 - German International University
+# Signal Analysis Project - Comm B301 - German International University Berlin
 
 ## Project Overview
 
